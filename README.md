@@ -22,7 +22,7 @@ On the second plot you can type a word or phrase and our plot will tell you what
 after the last one from the input in messages of a selected person.
 <hr>
 Data was shared by Facebook. <br>
-authors: <br>
+Authors: <br>
 Julia Kaznowska <br>
 Piotr Wilczyński <br>
 Kacper Trębacz <br>
