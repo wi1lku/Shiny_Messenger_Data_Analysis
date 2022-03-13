@@ -21,10 +21,10 @@ On the first chart you can see which emoticons appear most often in our conversa
 On the second plot you can type a word or phrase and our plot will tell you what are the most common words occuring
 after the last one from the input in messages of a selected person.
 <hr>
-Data was shared by Facebook. <br>
 Authors: <br>
 Julia Kaznowska <br>
 Piotr Wilczyński <br>
 Kacper Trębacz <br>
+Data was shared by Facebook. <br>
 
 ### Attention: data and preprocessing were hidden due to privacy reasons
